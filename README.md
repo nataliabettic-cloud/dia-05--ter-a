@@ -1,1 +1,1 @@
-# dia-05--ter-a
+exerciciojs
